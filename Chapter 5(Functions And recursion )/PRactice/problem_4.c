@@ -1,0 +1,9 @@
+
+//5
+#include<stdio.h>
+ 
+int main(){
+    int a =4;
+    printf("%d %d %d \n",a, ++a, a++);// precendence from right to left
+    return 0;
+}

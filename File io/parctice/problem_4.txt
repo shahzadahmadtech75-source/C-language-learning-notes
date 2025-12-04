@@ -1,0 +1,4 @@
+shahzad,50000
+hassan,40000
+gulkhan,10000
+shahid,53000
