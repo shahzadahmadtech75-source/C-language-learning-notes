@@ -1,6 +1,6 @@
 //* Array is the collection of elements assigned to one variable 
 //* In python and js like languages single array or list can store different datatypes
-//* But in c one array can store one type of data just like specific variable i-e in t,float,char
+//* But in c one array can store one type of data just like specific variable i-e int,float,char
 
 #include<stdio.h>
  
