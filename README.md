@@ -1,2 +1,2 @@
 # C-language-learning-notes
-This repo contains my all C language code with comments for better revision which was made by me when i was learning C.The chapters are structureed and organized along with practice questions in every chapter. Every beginner should checkout this repo as it is a complete course not just a repo
+This repo contains my all C language code with comments for better revision which was made by me when i was learning C.The chapters are structureed and organized along with practice questions in every chapter. Every beginner should checkout this repo as it is a complete course not just a repo.These are my learnings and also contain the error fixes that i got while learning and every fresher should avoid that.
