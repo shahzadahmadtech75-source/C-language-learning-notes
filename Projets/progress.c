@@ -34,6 +34,10 @@ int main(){
     int mov;
     printf("\nHow many movies you want to download: ");
     scanf("%d", &mov);
+    if(mov == 0){
+        printf("\nNo downloads!");
+        return 0;
+    }
     max_tasks = mov;
     Task tasks[max_tasks];
     srand(time(NULL));
